@@ -41,9 +41,7 @@ function Home() {
       boxShadow: "0 0 10px rgba(0, 0, 0, 0.2)",
     }}
   />
-</Col>
-
-                 
+</Col>      
           </Row>
         </Container>
       </Container>
